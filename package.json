@@ -1,0 +1,20 @@
+{
+  "name": "delete-me",
+  "version": "1.0.0",
+  "description": "Just for fun",
+  "main": "index.js",
+  "scripts": {
+    "test": "Ellie"
+  },
+  "keywords": [
+    "fun",
+    "node",
+    "npm"
+  ],
+  "author": "Elliana Petrin",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "figlet": "^1.7.0"
+  }
+}
